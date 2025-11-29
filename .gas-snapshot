@@ -1,0 +1,7 @@
+FundMeTest:testArraygetPoor() (gas: 102913)
+FundMeTest:testListofPoor() (gas: 102747)
+FundMeTest:testOwner() (gas: 101814)
+FundMeTest:testWithdrawal() (gas: 87940)
+FundMeTest:testWithdrawalmultiple() (gas: 9323027)
+FundMeTest:testZeroEth() (gas: 25150)
+FundMeTest:testminUsd() (gas: 5847)
